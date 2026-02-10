@@ -17,6 +17,4 @@ A secure and scalable **Authentication & Authorization microservice** built with
 - **Database:** MySQL  
 - **ORM:** Spring Data JPA (Hibernate)  
 - **Build Tool:** Maven  
-- **Testing:** Postman  
-
-## 📁 Project Structure (High Level)
+- **Testing:** Postman 
